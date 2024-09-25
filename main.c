@@ -2,6 +2,7 @@
 #define TAM 100
 
 int main(){
+  printf("Hola");
   int a[TAM][TAM], b[TAM][TAM], c[TAM][TAM];
   int m, n, p, q;
   int i, j;
